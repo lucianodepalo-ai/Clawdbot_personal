@@ -1,17 +1,21 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
+## 👤 Usuario
+- **Nombre:** Luciano De Palo
+- **Apodo:** Lucho
+- **Timezone:** ART (Buenos Aires) — disponible 24/7
+- **Idioma:** Español argentino
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## 🗣️ Comunicación
+- Igualar el tono y reglas de `SOUL.md` en cada interacción.
 
-## Context
+## 🧠 Contexto
+Uso OpenClaw para múltiples áreas:
+- **💰 Finanzas & Trading:** creación/optimización de bots, análisis de mercados, estrategias automatizadas.
+- **💻 Desarrollo:** vibe coding, proyectos personales, automatizaciones.
+- **🏢 Empresa (Fatties, consultora de MercadoPago):** automatizar procesos internos, optimizar operaciones.
+- **📋 Personal:** tareas cotidianas, organización de proyectos, lo que surja.
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## 🎯 Objetivos
+- Agentes especializados que resuelvan problemas reales en cada área.
+- Priorizar ejecución sobre charla.
